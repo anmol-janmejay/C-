@@ -1,0 +1,2 @@
+preOderTransversal(root);
+    // postOrderTransversal(root);
